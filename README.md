@@ -1,6 +1,6 @@
 # Java Object Serialization
 
-This is a small program with learning purposes that saves a serialized object from a "bean class" to a file.
+This is a small program with learning purposes that saves a serialized object from a "bean" class to a file.
 
 
 ## Compiling and running
